@@ -27,8 +27,7 @@
     "random-str-msg": "./bin/global.js"
   },
   "dependencies": {
-    "g": "^2.0.1",
-    "moment": "^2.29.4"
+    "g": "^2.0.1"
   },
   "preferGlobal": true,
   "devDependencies": {
