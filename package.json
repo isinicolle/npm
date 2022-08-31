@@ -1,0 +1,25 @@
+{
+  "name": "npm-init",
+  "version": "1.0.0",
+  "description": "Nuevo Curso de NPM: Gestión de Paquetes y Dependencias en JavaScript Nuevo Curso de NPM: Gestión de Paquetes y Dependencias en JavaScrip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isinicolle/npm-isinicolle.git"
+  },
+  "keywords": [
+    "npm",
+    "nodejs",
+    "javascript",
+    "angular"
+  ],
+  "author": "Isis Zapata (isinicolle)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isinicolle/npm-isinicolle/issues"
+  },
+  "homepage": "https://github.com/isinicolle/npm-isinicolle#readme"
+}
