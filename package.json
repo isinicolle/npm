@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/isinicolle/npm-isinicolle.git"
+    "url": "git+https://github.com/isinicolle/random-str-msg.git"
   },
   "keywords": [
     "npm",
@@ -20,11 +20,11 @@
   "author": "Isis Zapata (isinicolle)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/isinicolle/npm-isinicolle/issues"
+    "url": "https://github.com/isinicolle/random-str-msg/issues"
   },
-  "homepage": "https://github.com/isinicolle/npm-isinicolle#readme",
+  "homepage": "https://github.com/isinicolle/random-str-msg#readme",
   "bin": {
-    "npm-isinicolle": "./bin/global.js"
+    "random-str-msg": "./bin/global.js"
   },
   "dependencies": {
     "g": "^2.0.1",
