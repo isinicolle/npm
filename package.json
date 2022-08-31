@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/isinicolle/npm-isinicolle#readme",
   "bin": {
-    "random-str-msg": "./bin/global.js"
+    "npm-isinicolle": "./bin/global.js"
   },
   "dependencies": {
     "g": "^2.0.1",
