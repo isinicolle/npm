@@ -23,12 +23,17 @@
     "url": "https://github.com/isinicolle/npm-isinicolle/issues"
   },
   "homepage": "https://github.com/isinicolle/npm-isinicolle#readme",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
   "dependencies": {
+    "g": "^2.0.1",
     "json-server": "^0.17.0",
     "moment": "^2.29.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
+  "preferGlobal": true,
   "devDependencies": {
     "eslint": "^8.23.0"
   }
