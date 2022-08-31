@@ -23,7 +23,8 @@
   },
   "homepage": "https://github.com/isinicolle/npm-isinicolle#readme",
   "dependencies": {
-    "moment": "^2.29.4"
+    "moment": "^2.29.4",
+    "react": "^18.2.0"
   },
   "devDependencies": {
     "eslint": "^8.23.0"
